@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/makoq-create-mcp-server-cli-badge.png)](https://mseep.ai/app/makoq-create-mcp-server-cli)
+
 [![npm](https://img.shields.io/npm/v/create-ts-mcp-server.svg)](https://www.npmjs.com/package/create-ts-mcp-server)
 
 # MCP Server Scaffolding Tool
